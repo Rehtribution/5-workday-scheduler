@@ -38,7 +38,7 @@ saveBtn.on('click', function() {
 
 getTasks()
 
-//
+//retrieves the stored information by id 9-18 (the total length of the timeBlocks)
 function getTasks() {
     for (var i = 9; i < 18; i++) {
         var currentTask = localStorage.getItem(i)

@@ -1,21 +1,4 @@
-:root {
-  --primary: rgb(109, 109, 109);
-  --secondary: #497980;
-  --tertiary: rgb(146, 64, 49);
-}
-/*want to make a dark background*/
-h1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: "Monofett";
-  font-size: 80px !important;
-  margin: 0px;
-}
-
 body {
-  color: var(--primary) !important;
-  background-size: cover;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
@@ -32,15 +15,12 @@ textarea{
 
 .jumbotron {
   text-align: center;
-  background-color: var(--primary);
+  background-color: transparent;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
 
-.container {
-  background-color: var(--primary);
-}
 .description{
   white-space: pre-wrap;
 }
@@ -57,7 +37,7 @@ textarea{
 }
 
 .hour {
-  background-color: var(--secondary);
+  background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
 }

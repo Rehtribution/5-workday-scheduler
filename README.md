@@ -1,4 +1,4 @@
-<h1 align="center">Workday Scheduler</h1>
+<h1 align="center">Work Day Scheduler</h1>
 
 <h2 align="center">Project Description</h2>
 Workday Scheduler is a program that will add important events to a daily planner and help manage a users time effectively.

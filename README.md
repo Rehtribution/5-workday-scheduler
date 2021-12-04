@@ -22,9 +22,10 @@ This is the fifth Challenge homework assignment and will meet the acceptance cri
 
 ## Screenshot
 
+![workday-gif](https://user-images.githubusercontent.com/92597876/144689119-a6a75b56-f84f-462e-9740-2e6abe2c149a.gif)
 
 ## deployed link
-- 
+- https://rehtribution.github.io/5-workday-scheduler/
 
 ## Built With
 
@@ -37,3 +38,7 @@ This is the fifth Challenge homework assignment and will meet the acceptance cri
 ## Author
 
 - [Portfolio] https://rehtribution.github.io/portfolio/
+
+## Contributors
+
+- Anthony Parrino from tutoring

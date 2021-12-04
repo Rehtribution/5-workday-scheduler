@@ -1,5 +1,5 @@
 //global variables
-var now = moment().format('dddd, MMMM Do, YYYY');
+var now = moment().format('dddd, MMMM Do, YYYY')
 var currentTime = moment().hours()
 var timeBlock = $('.time-block')
 var saveBtn = $(".saveBtn")

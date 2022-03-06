@@ -3,8 +3,9 @@
 <h2 align="center">Project Description</h2>
 Workday Scheduler is a program that will add important events to a daily planner and help manage a users time effectively.
 
-This is the fifth Challenge homework assignment and will meet the acceptance criteria listed below:
+<h2 align="center">User Story</h2>
 
+```
 - GIVEN I am using a daily planner to create a schedule
 - WHEN I open the planner
 - THEN the current day is displayed at the top of the calendar
@@ -18,7 +19,7 @@ This is the fifth Challenge homework assignment and will meet the acceptance cri
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
-
+```
 
 ## Screenshot
 
@@ -37,8 +38,8 @@ This is the fifth Challenge homework assignment and will meet the acceptance cri
 
 ## Author
 
-- [Portfolio] https://rehtribution.github.io/portfolio/
+[![GitHub Portfolio -> - Rehtribution](https://img.shields.io/badge/GitHub_Portfolio_-->-Rehtribution-darkred?style=for-the-badge)](https://github.com/Rehtribution)
 
 ## Contributors
 
-- Anthony Parrino from tutoring
+- Anthony Parrino

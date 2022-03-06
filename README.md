@@ -26,7 +26,9 @@ Workday Scheduler is a program that will add important events to a daily planner
 ![workday-gif](https://user-images.githubusercontent.com/92597876/144689119-a6a75b56-f84f-462e-9740-2e6abe2c149a.gif)
 
 ## deployed link
-- https://rehtribution.github.io/5-workday-scheduler/
+
+[![GitHub-Link - ClickHere](https://img.shields.io/badge/GitHub--Link-ClickHere-blue?style=for-the-badge)](https://rehtribution.github.io/5-workday-scheduler/)
+
 
 ## Built With
 
